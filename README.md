@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**keithlimmontajes/keithlimmontajes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a **Software Developer & Freelancer** with **7 years of experience** in building robust, scalable, and efficient applications. I specialize in **React, React Native, Next.js, and Node.js**, and I love working on innovative projects that solve real-world problems.
 
-Here are some ideas to get you started:
+## What I Do 🚀
+- **Web Development**: Next.js, React, TypeScript, Redux, Zustand, RTK
+- **Mobile Development**: React Native, Bluetooth integrations, PWA
+- **Backend & APIs**: Node.js, Express, Axios
+- **Cloud & DevOps**: Firebase, AWS, CI/CD
+- **Other Tools**: Zustand, React Hook Form, GA4, CleverTap, Bluetooth Printing (ESC/POS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects 🛠️
+- **Next.js PWA** with multi-page forms and Redux
+- **Bluetooth POS Printing** in React Native
+- **Deep Linking & Push Notifications** in Mobile Apps
+
+## Open to Work 💼
+I'm looking for new **freelance opportunities, full-time roles, or collaboration** on exciting projects. If you're interested in working together, feel free to **reach out!**
+
+## Connect with Me 📫
+- **GitHub**: [github.com/yourusername](https://github.com/keithlimmontajes)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/keithlimmontajes)
+- **Email**: keithlimmontajes@gmail.com
+
