@@ -14,8 +14,8 @@ I'm a **Software Developer & Freelancer** with **7 years of experience** in buil
 - **Next.js PWA** with multi-page forms and Redux
 - **Bluetooth POS Printing** in React Native
 - **Deep Linking & Push Notifications** in Mobile Apps
-- **WEB DEVELOPMENT** in any platforms
-- **Backend Development** Node JS, Express JS, Laravel
+- **Web Development** in shopping 
+- **Backend Development** microservices
 
 ## Open to Work 💼
 I'm looking for new **freelance opportunities, full-time roles, or collaboration** on exciting projects. If you're interested in working together, feel free to **reach out!**
