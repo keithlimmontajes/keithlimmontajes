@@ -11,7 +11,7 @@ Full stack dev 🤝 devops (aka i build it… then i figure out why it’s not d
 
 
 
-i write code, break builds, fix pipelines, and repeat
+I write code, break builds, fix pipelines, and repeat
 basically turning coffee ☕ into apps and errors into “features”
 if it runs in production without breaking… that’s a personal win 😂
 
