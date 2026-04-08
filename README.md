@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I'm a **Full-Stack | Mobile & Web Development | Backend** with **7 years of experience** in building robust, scalable, and efficient applications. I specialize in **React, React Native, Next.js, and Node.js**, and I love working on innovative projects that solve real-world problems.
+I'm a **Full-Stack Developer** building robust, scalable, and efficient applications. I specialize in **React, React Native, Next.js, and Node.js**, and I love working on innovative projects that solve real-world problems.
 
 ## What I Do 🚀
 - **Web Development**: Next.js, React, TypeScript, Redux, Zustand, RTK
