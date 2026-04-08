@@ -5,8 +5,11 @@ Full stack dev 🤝 devops (aka i build it… then i figure out why it’s not d
 
 
 💻 front end: makes it look nice
+
 ⚙️ back end: makes it actually work
+
 🚀 devops: why is the server crying
+
 
 
 i write code, break builds, fix pipelines, and repeat
