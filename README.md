@@ -1,17 +1,17 @@
 # Hi there! 👋
 
-## About Me
-I'm a **Full-Stack Developer** building robust, scalable, and efficient applications. I specialize in **Javascript**, and I love working on innovative projects that solve real-world problems.
+full stack dev 🤝 devops (aka i build it… then i figure out why it’s not deploying 😅)
 
-## What I Do 🚀
-- **Web Development**: Next.js, React, TypeScript, Redux, Zustand, RTK
-- **Mobile Development**: React Native, Bluetooth integrations, PWA
-- **Backend & APIs**: Node.js, Express, Axios
-- **Cloud & DevOps**: Firebase, AWS, CI/CD
-- **Other Tools**: Zustand, React Hook Form, GA4, CleverTap, Bluetooth Printing (ESC/POS)
+💻 front end: makes it look nice
+⚙️ back end: makes it actually work
+🚀 devops: why is the server crying
 
-## Open to Work 💼
-I'm looking for new **freelance opportunities, full-time roles, or collaboration** on exciting projects. If you're interested in working together, feel free to **reach out!**
+i write code, break builds, fix pipelines, and repeat
+basically turning coffee ☕ into apps and errors into “features”
+
+if it runs in production without breaking… that’s a personal win 😂
+
+currently: turning coffee ☕ into code
 
 ## Connect with Me 📫
 - **GitHub**: [github.com/yourusername](https://github.com/keithlimmontajes)
