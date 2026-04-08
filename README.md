@@ -3,12 +3,11 @@
 Full stack dev 🤝 devops (aka i build it… then i figure out why it’s not deploying 😅)
 
 
+-- 💻 front end: makes it look nice
 
-💻 front end: makes it look nice
+-- ⚙️ back end: makes it actually work
 
-⚙️ back end: makes it actually work
-
-🚀 devops: why is the server crying
+-- 🚀 devops: why is the server crying
 
 
 
