@@ -10,13 +10,6 @@ I'm a **Full-Stack | Mobile & Web Development | Backend** with **7 years of expe
 - **Cloud & DevOps**: Firebase, AWS, CI/CD
 - **Other Tools**: Zustand, React Hook Form, GA4, CleverTap, Bluetooth Printing (ESC/POS)
 
-## Current Projects 🛠️
-- **Next.js PWA** with multi-page forms and Redux
-- **Bluetooth POS Printing** in React Native
-- **Deep Linking & Push Notifications** in Mobile Apps
-- **Web Development** in shopping 
-- **Backend Development** microservices
-
 ## Open to Work 💼
 I'm looking for new **freelance opportunities, full-time roles, or collaboration** on exciting projects. If you're interested in working together, feel free to **reach out!**
 
