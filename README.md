@@ -5,9 +5,7 @@ Full stack dev 🤝 devops (aka i build it… then i figure out why it’s not d
 
 
 💻 front end: makes it look nice
-
 ⚙️ back end: makes it actually work
-
 🚀 devops: why is the server crying
 
 
@@ -17,7 +15,7 @@ if it runs in production without breaking… that’s a personal win 😂
 
 
 
-# Drop by 📫
+# Connect 📫
 - **GitHub**: [github.com/yourusername](https://github.com/keithlimmontajes)
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/keithlimmontajes)
 - **Email**: keithlimmontajes@gmail.com
